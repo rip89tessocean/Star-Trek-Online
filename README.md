@@ -228,4 +228,4 @@ Star Trek Online is available as a **full free version** with **all features** a
 Download Star Trek Online today and explore the final frontier! Join captains from across the universe in an epic adventure that awaits you.
 
 ---
-**Last updated:** 2026-09-22 04:24:28 UTC
+**Last updated:** 2026-09-22 09:46:46 UTC
